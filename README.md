@@ -6,7 +6,7 @@ I made this because default wifi passwords are long and annoying to type so this
 
 ### Requirements
 
-- ChromeDriver version 107
+- ChromeDriver 
 - Python
 - Selenium
 
